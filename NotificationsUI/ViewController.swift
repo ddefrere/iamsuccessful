@@ -1,8 +1,8 @@
 //
 //  ViewController.swift
-//  NotificationsUI
+//  Iamsuccessful
 //
-//  Copyright © 2016 Pranjal Satija. All rights reserved.
+//  Copyright © 2018 The Roxxor. All rights reserved.
 //
 
 import UIKit
