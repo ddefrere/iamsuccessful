@@ -19,7 +19,7 @@ import UserNotifications
         print("Notification access denied.")
       }
     }
-    jjj
+    
     /// Render actions for notification.
     let action = UNNotificationAction(identifier: "remindLater", title: "Remind me later", options: [])
     let category = UNNotificationCategory(identifier: "normal", actions: [action], intentIdentifiers: [], options: [])
